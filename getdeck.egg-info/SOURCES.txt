@@ -1,0 +1,8 @@
+downloader.py
+main.py
+mtga_decoder.py
+setup.py
+getdeck.egg-info/PKG-INFO
+getdeck.egg-info/SOURCES.txt
+getdeck.egg-info/dependency_links.txt
+getdeck.egg-info/top_level.txt
